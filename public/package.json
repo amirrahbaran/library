@@ -1,0 +1,17 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "Public Host",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amir Reza Rahbaran",
+  "license": "ISC",
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "gulp": "^3.9.1",
+    "jquery": "^3.2.1",
+    "underscore": "^1.8.3"
+  }
+}
